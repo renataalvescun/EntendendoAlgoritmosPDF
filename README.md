@@ -5,8 +5,10 @@ Livro "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curi
 
 
 
+[📖 Entendendo Algoritmos Um Guia Ilustrado Para Programadores e Outros Curiosos (2017, Novatec Editora](https://github.com/renataalvescun/EntendendoAlgoritmosPDF/files/13629987/Aditya.Y.Bhargava.-.Entendendo.Algoritmos.Um.Guia.Ilustrado.Para.Programadores.e.Outros.Curiosos.2017.Novatec.Editora.-.libgen.li.pdf)
 
 
-[Fonte do PDF](https://libgen.li)
+
+[🔎 Fonte do PDF](https://libgen.li)
 
 
